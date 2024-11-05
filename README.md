@@ -30,5 +30,6 @@
 <p>
   <img src="https://img.shields.io/badge/-ewgt1234@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=ewgt1234@naver.com"></a>
   <a href="https://www.instagram.com/hyxk_lee"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hyxk_lee"></a>
+  <a href="https://weeth.crayon.land"><img src="https://img.shields.io/badge/-Notion-purple?style=flat-square&logo=notion&logoColor=white&link=https://weeth.crayon.land"></a>
   
 </p>
