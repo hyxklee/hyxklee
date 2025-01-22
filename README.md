@@ -11,16 +11,23 @@
 <br>
 
 <h3> 💻 Stack </h3>
-
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=JAVA&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+</p>
+<p>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonroute53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-white?style=flat-square&logo=mongodb&logoColor=green">
+  <img src="https://img.shields.io/badge/DynamoDB-blue?style=flat-square&logo=amazondynamodb&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-red?style=flat-square&logo=redis&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20SES-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-blue?style=flat-square&logo=docker&logoColor=white">
 </p>
 
 <br>
