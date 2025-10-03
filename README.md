@@ -6,8 +6,9 @@
 
 - 가천대학교 컴퓨터공학과 (2020 ~)
 - 가천대학교 IT 학술 동아리 Leets 3기 Server (2024-03-01 ~ 2024-08-31)
-- 가천대학교 IT 학술 동아리 Leets 4기 Server (2024-09-01 ~)
-- Leets Makers 1기 Lead (2025-02-01 ~)
+- 가천대학교 IT 학술 동아리 Leets 4기 Server (2024-09-01 ~ 2025.02.28)
+- Leets Makers 1기 Lead (2025-02-01 ~ 2025.08.22)
+- Leets Makers 2기 Lead (2025-09-01 ~)
 
 <br>
 
