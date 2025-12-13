@@ -10,7 +10,7 @@
 - Leets Makers 1기 Lead (2025-02-01 ~ 2025.08.22)
 - Leets Makers 2기 Lead (2025-09-01 ~)
 - Ahnlab 인공지능 개발실 인턴 (2025-06 ~ 2025-12)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyxklee)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 <h3> 💻 Stack </h3>
