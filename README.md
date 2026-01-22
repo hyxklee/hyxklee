@@ -21,17 +21,17 @@
 
 ## 📂 Key Projects
 
-### 1. Weeth (동아리 통합 관리 서비스)
+### 1. Weeth | 동아리 통합 관리 서비스 (2024.06 - 진행 중)
 > **Role:** Project Manager, Backend Engineer
 - **통합 인증 서버 구축**: Spring Authorizaton Server를 이용한 자체 OAuth2 인증 서버 구축. 단일 계정으로 여러 서비스 이용 가능. 신규 서비스 연동 예상 소요 시간: 1주 → 1일로 단축
 - **사용자 데이터 기반 UI/UX 개선:** GA4와 MS Clarity를 도입해 유저 행동 데이터를 분석, 사용자 데이터 기반 의사결정 문화 및 기획 체계 도입
 
-### 2. Ahnlab 인공지능 개발실 (Internship)
+### 2. Ahnlab 인공지능 개발실 | 인턴 (2025.06 - 2025.12)
 > **Role:** LLM Artifact 관리, LLMOps, 사내 개발 지원
 - **배포 자동화**: 온프레미스 K8s 환경에서 ArgoCD Hook을 활용한 Artifact 배포 및 검증 자동화로 배포 리드타임 단축
 - **LLM Artifact 검증 자동화**: LLM Artifacts 리소스간 의존성 검증과 자동 수정 툴을 개발해 검증 시간 90% 단축
 
-### 3. Leenk (Leets를 위한 네트워크 강화 서비스)
+### 3. Leenk | Leets를 위한 네트워크 강화 서비스 (2025.03 - 진행 중)
 > **Role**:Project Manager, Backend Engineer
 - **Claude Code 커스텀**: Sub Agent, 공통 컨벤션 정의, 권한 체계 설정을 통해 개발 생산성 증가
 - **Swagger 예외 문서 자동화**: Swagger의 OperationCustomizer를 커스텀해 예외 코드 추가시 자동으로 문서에 반영되도록해 문서 작업 시간 100% 단축
